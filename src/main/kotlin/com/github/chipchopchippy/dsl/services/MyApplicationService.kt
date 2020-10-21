@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chipchopchippy.dsl.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chipchopchippy.dsl.MyBundle
 
 class MyApplicationService {
 
